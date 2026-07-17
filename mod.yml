@@ -1,7 +1,6 @@
 title: RF Keyblades KH1
 originalAuthor: RF777
-description: 
-'Replaces all the keyblades of KH1 with RF Customs'
+description: 'Replaces all the keyblades of KH1 with RF Customs'
 assets:
 - name: remastered/xw_dh_5000.wpn/-96c0.cvbl
   method: copy
