@@ -14,10 +14,6 @@ assets:
   method: copy
   source:
   - name: xa_ex_0019.mdls 
-- name: xw_ex_5010.wpn
-  method: copy
-  source:
-  - name: xw_ex_5010.wpn
 - name: remastered/xa_ex_0010.mdls/-c0.cvbl
   method: copy
   source:
@@ -30,11 +26,10 @@ assets:
   method: copy
   source:
   - name: remastered/xa_ex_0019.mdls/-c0.cvbl
-
 - name: remastered/xw_dh_5000.wpn/-96c0.cvbl
   method: copy
   source:
-  - name: remastered/xw_dh_5000.wpn/-96c0.dds
+  - name: remastered/xw_dh_5000.wpn/-96c0.cvbl
 - name: remastered/xw_dh_5000.wpn/-97c0.dds
   method: copy
   source:
