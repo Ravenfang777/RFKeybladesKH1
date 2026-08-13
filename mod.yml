@@ -2,18 +2,20 @@ title: RF Keyblades KH1
 originalAuthor: RF777
 description: 'Replaces all the keyblades of KH1 with RF Customs'
 assets:
-- name: xa_ex_0010.mdls
+- name: obj/xa_ex_0010.mdls
   method: copy
   source:
   - name: xa_ex_0010.mdls
-- name: xa_ex_0012.mdls
+
+- name: obj/xa_ex_0012.mdls
   method: copy
   source:
   - name: xa_ex_0012.mdls
-- name: xa_ex_0019.mdls
+
+- name: obj/xa_ex_0019.mdls
   method: copy
   source:
-  - name: xa_ex_0019.mdls 
+  - name: xa_ex_0019.mdls
 - name: remastered/xa_ex_0010.mdls/-c0.cvbl
   method: copy
   source:
