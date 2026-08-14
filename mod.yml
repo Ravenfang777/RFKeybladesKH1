@@ -16,6 +16,18 @@ assets:
   method: copy
   source:
   - name: xa_ex_0019.mdls
+- name: remastered/xa_ex_0010.mdls/-1c2.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0010.mdls/-1c2.dds
+- name: remastered/xa_ex_0012.mdls/-1c2.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0012.mdls/-1c2.dds
+- name: remastered/xa_ex_0019.mdls/-1c2.dds
+  method: copy
+  source:
+  - name: remastered/xa_ex_0019.mdls/-1c2.dds
 - name: remastered/xa_ex_0010.mdls/-c0.cvbl
   method: copy
   source:
