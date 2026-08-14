@@ -7,7 +7,7 @@ assets:
   source:
   - name: xa_nm_0000.mset
 - name: obj/xa_nm_0000.mdls
-  method: copyc
+  method: copy
   source:
   - name: obj/xa_nm_0000.mdls
 - name: remastered/xa_nm_0000.mdls/-c0.cvbl
