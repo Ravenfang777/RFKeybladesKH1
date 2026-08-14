@@ -6,12 +6,10 @@ assets:
   method: copy
   source:
   - name: xa_ex_0010.mdls
-
 - name: obj/xa_ex_0012.mdls
   method: copy
   source:
   - name: xa_ex_0012.mdls
-
 - name: obj/xa_ex_0019.mdls
   method: copy
   source:
